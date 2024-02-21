@@ -11,7 +11,7 @@
 
 <h2>📝 Certifications:</h2>
 
-- [Google Cybersecurity Professional (SOON)]
+- Google Cybersecurity Professional -SOON-
 - [Google IT Support Professional](https://coursera.org/share/8d8ecb8fe8d5d73116fa3f427862bea6)
 
 <h2> 🤳 Connect with me:</h2>
