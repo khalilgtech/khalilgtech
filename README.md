@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Checking Files & Changing Permissions in Linux](https://github.com/khalilgtech/khalilgtech/files/14352614/File.permissions.in.Linux.docx)
-  - [Applying filters to SQL queries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  - [Controls and Compliance Checklist](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Incident Report & Network Traffic Analysis](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Vulernability Assessment Report](https://github.com/joshmadakor1/AD_PS)
+  - [Checking Files & Changing Permissions in Linux](https://docs.google.com/document/d/1F224eWaTk8Dgf39CF9B3IwFGG0mPpnGPJV7Fkc-PGaI/edit?usp=sharing)
+  - [Applying filters to SQL queries](https://docs.google.com/document/d/1O7RNalbjtrSqPA8ADS67A3RTSrdFMYthxvnxlJgFC38/edit?usp=sharing&resourcekey=0-WW1RUw2MIog_ClsXrK_Yew) <b><i></b></i>
+  - [Vulernability Assessment Report](https://docs.google.com/document/d/1deroj8nb_YC1t_vOoKvVg7q9vYL4nDY33yQ1MMKYe7M/edit?usp=sharing)
+  - [Incident Report & Network Traffic Analysis](https://docs.google.com/document/d/1qeC0dOz0_RGdfS-FRfrFOknrid-bQEv6owNAhJeA8Z8/edit?usp=sharing)
+  - [Controls and Compliance Checklist](https://docs.google.com/document/d/1bZ_1wX-aXkc_DyocVEeratc0ZFf50NV0-Mv4iwQVJFQ/edit?usp=sharing)
+  
 
 <h2>👨‍💻 Certifications:</h2>
 
