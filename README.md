@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Checking Files & Changing Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Checking Files & Changing Permissions in Linux](https://github.com/khalilgtech/khalilgtech/files/14352614/File.permissions.in.Linux.docx)
   - [Applying filters to SQL queries](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Controls and Compliance Checklist](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Incident Report & Network Traffic Analysis](https://github.com/joshmadakor1/Jwipe.PowerShell)
