@@ -9,8 +9,9 @@
   - [Controls and Compliance Checklist](https://docs.google.com/document/d/1bZ_1wX-aXkc_DyocVEeratc0ZFf50NV0-Mv4iwQVJFQ/edit?usp=sharing)
   
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📝 Certifications:</h2>
 
+- [Google Cybersecurity Professional (SOON)]
 - [Google IT Support Professional](https://coursera.org/share/8d8ecb8fe8d5d73116fa3f427862bea6)
 
 <h2> 🤳 Connect with me:</h2>
