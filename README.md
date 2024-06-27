@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Update file through Python algorithm](https://docs.google.com/document/d/1Wq3jHJ8VkgrZYK8avdgQ-EyJE4y7BM4CgYLkDsXxeqc/edit?usp=sharing&resourcekey=0-KwK8f3PCHhKRpZEevKglHQ)
   - [Incident Handler's Journal](https://docs.google.com/document/d/1H6w6Io-ExPDeluiZLXSvpFcCERoptTRZJSMrDIMmne4/edit?usp=sharing&resourcekey=0-mNfoU8yl0f45TTjWdoqQqA)
-  - [Checking Files & Changing Permissions in Linux](https://docs.google.com/document/d/1F224eWaTk8Dgf39CF9B3IwFGG0mPpnGPJV7Fkc-PGaI/edit?usp=sharing)
+  - [Checking files & changing permissions in Linux](https://docs.google.com/document/d/1F224eWaTk8Dgf39CF9B3IwFGG0mPpnGPJV7Fkc-PGaI/edit?usp=sharing)
   - [Applying filters to SQL queries](https://docs.google.com/document/d/1O7RNalbjtrSqPA8ADS67A3RTSrdFMYthxvnxlJgFC38/edit?usp=sharing&resourcekey=0-WW1RUw2MIog_ClsXrK_Yew) <b><i></b></i>
   - [Vulernability Assessment Report](https://docs.google.com/document/d/1deroj8nb_YC1t_vOoKvVg7q9vYL4nDY33yQ1MMKYe7M/edit?usp=sharing)
   - [Incident Report & Network Traffic Analysis](https://docs.google.com/document/d/1qeC0dOz0_RGdfS-FRfrFOknrid-bQEv6owNAhJeA8Z8/edit?usp=sharing)
