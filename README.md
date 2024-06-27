@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Update file through Python algorithm](https://docs.google.com/document/d/1Wq3jHJ8VkgrZYK8avdgQ-EyJE4y7BM4CgYLkDsXxeqc/edit?usp=sharing&resourcekey=0-KwK8f3PCHhKRpZEevKglHQ)
+  - [Update file through Python algorithm](https://docs.google.com/document/d/1EYaOlC9KEm6eCRXUhKXS1Y3fgFSB39GUgYMayOLjCCw/edit?usp=sharing&resourcekey=0-tRYkFUTZHuQ1d6V8317r_A)
   - [Incident Handler's Journal](https://docs.google.com/document/d/1H6w6Io-ExPDeluiZLXSvpFcCERoptTRZJSMrDIMmne4/edit?usp=sharing&resourcekey=0-mNfoU8yl0f45TTjWdoqQqA)
   - [Checking files & changing permissions in Linux](https://docs.google.com/document/d/1F224eWaTk8Dgf39CF9B3IwFGG0mPpnGPJV7Fkc-PGaI/edit?usp=sharing)
   - [Applying filters to SQL queries](https://docs.google.com/document/d/1O7RNalbjtrSqPA8ADS67A3RTSrdFMYthxvnxlJgFC38/edit?usp=sharing&resourcekey=0-WW1RUw2MIog_ClsXrK_Yew) <b><i></b></i>
