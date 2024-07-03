@@ -11,10 +11,10 @@
   - [Controls and Compliance Checklist](https://docs.google.com/document/d/1bZ_1wX-aXkc_DyocVEeratc0ZFf50NV0-Mv4iwQVJFQ/edit?usp=sharing)
   
 
-<h2>📝 Certifications:</h2>
+<h2>📝 Certificates:</h2>
 
-- [Google Cybersecurity Professional](https://www.credly.com/badges/95cc893b-2d7e-4904-9651-314bbbfa74e8/public_url)
-- [Google IT Support Professional](https://www.credly.com/badges/4f22a223-7701-4b4b-81e6-88580fd21298/public_url)
+- [Google Cybersecurityl](https://www.credly.com/badges/95cc893b-2d7e-4904-9651-314bbbfa74e8/public_url)
+- [Google IT Support](https://www.credly.com/badges/4f22a223-7701-4b4b-81e6-88580fd21298/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
