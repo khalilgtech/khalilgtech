@@ -13,7 +13,7 @@
 
 <h2>📝 Certificates:</h2>
 
-- [Google Cybersecurityl](https://www.credly.com/badges/95cc893b-2d7e-4904-9651-314bbbfa74e8/public_url)
+- [Google Cybersecurity](https://www.credly.com/badges/95cc893b-2d7e-4904-9651-314bbbfa74e8/public_url)
 - [Google IT Support](https://www.credly.com/badges/4f22a223-7701-4b4b-81e6-88580fd21298/public_url)
 
 <h2> 🤳 Connect with me:</h2>
