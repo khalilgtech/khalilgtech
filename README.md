@@ -13,8 +13,8 @@
 
 <h2>📝 Certifications:</h2>
 
-- Google Cybersecurity Professional -SOON-
-- [Google IT Support Professional](https://coursera.org/share/8d8ecb8fe8d5d73116fa3f427862bea6)
+- [Google Cybersecurity Professional](https://www.credly.com/badges/95cc893b-2d7e-4904-9651-314bbbfa74e8/public_url)
+- [Google IT Support Professional](https://www.credly.com/badges/4f22a223-7701-4b4b-81e6-88580fd21298/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
